@@ -1,22 +1,42 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Exploring the Relationships Between Ridesourcing and Public Transit in Shanghai Through Big Data Analysis and Machine Learning<br />103rd Transportation Research Board Annual Meeting; Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Effects of High-Speed Railway on Regional Accessibility and Poverty Alleviation in China Considering Regional Heterogeneity<br />104th Transportation Research Board Annual Meeting; Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Exploring the Integration of Ridesourcing with Metro Transit Based on Observed Data<br />102nd Transportation Research Board Annual Meeting; Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Analyzing Competition Determinants Between Ride-Hailing and Public Transportation Using Spatial Econometric and Interpretable Machine Learning<br />International Conference on Transportation and Development (ICTD 2025); Arizona, USA",
+    34.395342,
+    -111.763275
+  ],
+  [
+    "Integration of Ridesourcing and Metro Transit: A Spatio-Temporal Analysis in Shanghai Considering Heterogeneity<br />103rd Transportation Research Board Annual Meeting; Washington, DC, USA",
+    38.8950368,
+    -77.0365427
+  ],
+  [
+    "Comparison of Integrated Uses of Two Shared Mobility Modes with Metros: Dockless Bikesharing and Ridesourcing<br />101st Transportation Research Board Annual Meeting; Washington, DC, USA",
+    38.8950368,
+    -77.0365427
+  ],
+  [
+    "Analysis of Environmental Benefits of Ridesplitting Based on Observed Data: A Case Study of Chengdu, China<br />100th Transportation Research Board Annual Meeting; Washington, DC, USA",
+    38.8950368,
+    -77.0365427
+  ],
+  [
+    "Predicting Dynamic Origin-Destination Flow for Multimodal Transport Systems: A Physics-Informed Deep Learning Approach<br />103rd Transportation Research Board Annual Meeting; Washington, DC, USA",
+    38.8950368,
+    -77.0365427
   ]
 ];
