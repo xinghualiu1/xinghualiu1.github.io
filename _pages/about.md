@@ -26,12 +26,18 @@ Research Interests
 - Methods: Spatiotemporal analytics, causal inference, spatial econometrics, interpretable machine learning, LLM, NLP, explainable AI, deep learning, and optimization
 - Data environments: GPS-based mobility traces, smart-card data, land-use and POI data, social media data, housing price data, air-quality data, and other urban datasets
 
-Current Position
+Education
 ======
 
-- Postdoctoral Researcher, Universite Laval, January 2026 to present
-- Ph.D. in Transportation Engineering, Tongji University, 2025
-- Visiting Ph.D. Student, National University of Singapore, 2022 to 2024
+- **Tongji University**, Ph.D. in Transportation Engineering  
+  Sep. 2019 - Sep. 2025, Shanghai, China  
+  Dissertation: *Data-Driven Theoretical Research on the Integration of Shared Mobility and Public Transit*
+- **National University of Singapore**, Visiting PhD Student  
+  Dec. 2022 - Jan. 2024, Singapore  
+  Topic: *Predicting Dynamic Origin-Destination Flow for Multimodal Transport Systems: A Physics-Informed Deep Learning Approach*
+- **Southwest Jiaotong University**, B.S. in Transportation Engineering  
+  Sep. 2015 - Jun. 2019, Chengdu, China  
+  Thesis: *Quantifying Environmental Benefits of Ride-Splitting Services: A Case Study in Chengdu, China*
 
 Selected Publications
 ======
