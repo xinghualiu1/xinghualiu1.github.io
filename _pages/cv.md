@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Last updated: March 2026  
-Contact: [harryliustar@gmail.com](mailto:harryliustar@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=OUIBIl4AAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/xinghua-liu-4a9151261/)
+Contact: [harryliustar@gmail.com](mailto:harryliustar@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=OUIBIl4AAAAJ&hl) / [LinkedIn](https://www.linkedin.com/in/xinghua-liu-4a9151261/) / [PDF version](/files/Liu_Xinghua_CV_0326.pdf)
 
 Professional Profile
 ======
@@ -49,13 +49,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Mentoring and Teaching
+Teaching and Supervision
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}

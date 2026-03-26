@@ -19,20 +19,12 @@ I am a postdoctoral researcher specializing in shared mobility analysis, predict
 
 I have extensive experience working with large-scale GPS-based mobility traces, smart-card transactions, social media signals, land-use and POI data, housing price data, air-quality data, and other multi-source urban datasets. Across these settings, I use R, Python, GIS, statistical modelling, causal inference, spatial analysis, and interpretable machine learning to study multimodal transport behaviour and the integration of shared mobility with public transit.
 
-Research Snapshot
-======
-
-- Current position: Postdoctoral Researcher, Universite Laval, Quebec City, Canada
-- Core themes: Shared mobility, public transit integration, multimodal travel behaviour, and sustainable transport systems
-- Methods: Spatiotemporal analytics, causal inference, spatial econometrics, interpretable machine learning, explainable AI, deep learning, and optimization
-- Data environments: GPS-based mobility traces, smart-card data, land-use and POI data, social media data, housing price data, air-quality data, and other urban datasets
-
 Research Interests
 ======
 
-- Shared mobility, ride-hailing, ride-sharing, bike-sharing, micromobility, and public transit integration
-- Multimodal travel behaviour, urban mobility patterns, sustainable transport planning, and transportation equity
-- GPS trajectory analysis, spatial econometrics, causal inference, interpretable machine learning, explainable AI, GeoAI, deep learning, and optimization
+- Themes: Shared mobility (ride-hailing, ride-sharing, bike-sharing, micromobility), public transit, multimodal travel behaviour, and sustainable transport systems
+- Methods: Spatiotemporal analytics, causal inference, spatial econometrics, interpretable machine learning, LLM, NLP, explainable AI, deep learning, and optimization
+- Data environments: GPS-based mobility traces, smart-card data, land-use and POI data, social media data, housing price data, air-quality data, and other urban datasets
 
 Current Position
 ======
@@ -53,8 +45,8 @@ Quick Links
 ======
 
 - [Browse all publications](/publications/)
-- [View talks and presentations](/talks/)
+- [View presentations](/talks/)
 - [See research projects](/research/)
-- [Open full CV](/cv/)
+- [Open PDF CV](/files/Liu_Xinghua_CV_0326.pdf)
 
-This website presents my publications, conference presentations, mentoring activities, research projects, and a full academic CV.
+This website presents my publications, presentations, research projects, and academic CV.

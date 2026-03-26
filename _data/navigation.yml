@@ -14,15 +14,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
-
-  - title: "Mentoring"
-    url: /teaching/    
     
   - title: "Projects"
     url: /research/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Liu_Xinghua_CV_0326.pdf
     
